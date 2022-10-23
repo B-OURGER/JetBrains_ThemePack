@@ -1,0 +1,36 @@
+{
+  "name": "Sunset",
+  "author": "Friedrich Wilhelm Sudhoff",
+  "dark": false,
+  "editorScheme": "/theme/ThemePack.xml",
+  "colors": {
+    "purple": "#E1C1F5",
+    "black": "#000000",
+    "cyan": "#5adecd",
+    "grey": "#e8e8e8",
+    "blue": "#C1CFF5",
+    "darkBlue": "#838FF5",
+    "test": "#58ff00",
+    "darkerBeige": "#d0c3ac",
+    "darkBeige": "#F5EACE",
+    "beige": "#F5F2DA",
+    "brightBeige": "#FBFFE6",
+    "brightestBeige": "#fbffee"
+  },
+  "ui": {
+    "*": {
+      "editorTabs": "brightBeige",
+      "background": "beige",
+      "DefaultTabs.underlinedTabBackground": "darkBeige",
+      "windowBorder": "darkerBeige",
+      "selectionBackground": "cyan",
+      "centralizer": "cyan"
+      },
+    "DefaultTabs.underlinedTabBackground": "brightestBeige",
+    "EditorTabs.background": "brightBeige",
+    "Tabs.background": "brightBeige",
+    "background": "beige",
+    "EditorTabs.underlinedTabBackground": "beige",
+    "ToolWindow.Header.inactiveBackground": "beige"
+    }
+  }
